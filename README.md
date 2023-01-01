@@ -1,6 +1,7 @@
 ![waydroid](https://user-images.githubusercontent.com/65239245/163730035-ca89be56-e56f-4827-a736-0d87d879301e.png)
 
-#https://github.com/waydroid/waydroid/issues/214#issuecomment-1120926304
+# run this commands, this will build good python3-gbinder package for your distro:
+# https://github.com/waydroid/waydroid/issues/214#issuecomment-1120926304
 
 # Waydroid-installer (wd-installer)
 
