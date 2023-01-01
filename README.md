@@ -3,7 +3,7 @@
 # run this commands, this will build good python3-gbinder package for your distro:
 # https://github.com/waydroid/waydroid/issues/214#issuecomment-1120926304
 
-#boot: systemctl --user start wd-launcher.service
+# boot: systemctl --user start wd-launcher.service
 
 # Waydroid-installer (wd-installer)
 
